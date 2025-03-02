@@ -1,3 +1,5 @@
+# I add information about the computer languages that the information was missing.
+
 # Machine Learning From Scratch
 
 ## About
